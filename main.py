@@ -24,7 +24,7 @@ def info() -> typing.Dict:
         "apiversion": "1",
         "author": "John Snake",
         "color": "#7FFFFF",
-        "head": "bonhomme",
+        "head": "sand-worm",
         "tail": "round-bum",
     }
 
